@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>SKS - SOSŌ O KOERU SEKAI</title>
+  <style>
+    body {
+      background-color: #0e0e0e;
+      color: #ffffff;
+      font-family: 'Arial', sans-serif;
+      padding: 20px;
+    }
+    h1 {
+      color: #00ccff;
+      text-align: center;
+    }
+    .personagem {
+      margin-bottom: 20px;
+      padding: 10px;
+      border: 1px solid #00ccff;
+      border-radius: 10px;
+      background-color: #1a1a1a;
+    }
+    .personagem h2 {
+      color: #ff66cc;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>SKS - SOSŌ O KOERU SEKAI</h1>
+  <p>Bem-vindo ao mundo onde sarcasmo é armadura, dor é combustível e Kubykawas são tudo, menos normais.</p>
+
+  <div class="personagem">
+    <h2>Kaito</h2>
+    <p>O escolhido da profecia... que só queria um café barato. Sarcástico, ferido, engraçado por natureza e perigoso com palavras afiadas.</p>
+  </div>
+
+  <div class="personagem">
+    <h2>Hiko</h2>
+    <p>Marinheira Kubykawa com cabelo de água, visual inspirado na marinha japonesa, e uma líder que acredita no grupo, não em hierarquias.</p>
+  </div>
+
+  <div class="personagem">
+    <h2>Shiza</h2>
+    <p>Psicopata funcional. Resolve os problemas no machado-e-lança. Não é boa nem má, apenas necessária.</p>
+  </div>
+
+  <div class="personagem">
+    <h2>Hikida</h2>
+    <p>Ferreiro Kubykawa. Mais ou menos em tudo, mas faz armas lendárias. Vai onde o grupo decidir.</p>
+  </div>
+
+  <div class="personagem">
+    <h2>Shoko</h2>
+    <p>Policial humana com uma AK-47 e um casamento interrompido por Kubykawas. Tenso.</p>
+  </div>
+
+</body>
+</html>
